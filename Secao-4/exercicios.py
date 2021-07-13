@@ -1,11 +1,7 @@
 """
 Resolução dos exercícios da Seção 4 do Curso Geek University Programação Python Essentials
 
-# 2
 
-num = 7 / 2
-
-print(num)
 
 # 3
 
